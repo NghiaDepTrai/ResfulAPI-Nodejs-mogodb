@@ -1,0 +1,17 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "nghiadeptrai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "mongoose": "^5.5.11",
+    "morgan": "^1.9.1"
+  }
+}
